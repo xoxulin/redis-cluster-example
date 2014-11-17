@@ -1,0 +1,18 @@
+{
+  "name": "redis-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1",
+    "logger": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xoxulin",
+  "license": "Apache License 2.0"
+}

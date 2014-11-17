@@ -1,0 +1,6 @@
+module.exports = {
+	NONE: 'NONE',
+	GENERATOR: 'GENERATOR',
+	HANDLER: 'HANDLER',
+	GARBAGE_COLLECTOR: 'GC'
+};
